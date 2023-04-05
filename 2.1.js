@@ -1,3 +1,3 @@
-for(let t='#'; t.length<=7; t=t+'#') {
-    console.log(t);
-}
+for (let a='£'; a.length<8; a=a+'£') {
+    console.log (a);
+};
